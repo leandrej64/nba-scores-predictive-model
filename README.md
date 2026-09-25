@@ -24,4 +24,4 @@ Skill score (RPSS) vs. a naive baseline (Normal distribution centered on a team'
 | LASSO | 6.61% |
 | Random Forest | 6.2% |
 
-Full methodology, results, and discussion in [`Report_Leandre_Javelot.pdf`](Report_Leandre_Javelot.pdf).
+Full methodology, results, and discussion in [`report.pdf`](report.pdf).
